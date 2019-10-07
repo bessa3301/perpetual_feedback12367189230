@@ -4,7 +4,7 @@
 
 Decidi fazer a analise por tópicos, assim podendo me aprofundar em um assunto especifico, e facilitando a navegação dos tópicos.
 
-### [IMPORTANTE](definicao)
+### [IMPORTANTE](#definicao)
 
 Esta analise e baseada em nosso cafe, entao afim de prover mais detalhes dos quesitos que estou avaliando, estou listando abaixo, o que eu entendi que seria a necessidade de voces nesse momento.
 
