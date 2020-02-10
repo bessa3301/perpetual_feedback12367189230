@@ -7,6 +7,7 @@ Todo o armazenamento/mês	0,026 USD por GB
 https://aws.amazon.com/pt/s3/pricing/
 
 ## =~ R$ 7,00 / Usuario | Mes ( ZONA: SAO PAULO - LATIN AMERICA )
+## RELATIVO APENAS AO S3
 
 Gabriel Bessa - Developer.
 
